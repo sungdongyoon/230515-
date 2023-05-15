@@ -29,7 +29,6 @@ numButton.addEventListener("click", randomNum = () => {
       alert("인증이 완료되었습니다");
     })
 
-
     setInterval(timer, 1000);
   } else {
 
